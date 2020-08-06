@@ -12,7 +12,8 @@ Não perca as novidades:
 
 Assista o vídeo desta aula:
 
-[![Image](https://raw.githubusercontent.com/devsuperior/aulao009/master/thumbnail.jpg "Vídeo no Youtube")](https://www.youtube.com/watch?v=tKKWBcYW19I)
+[![Image](https://img.youtube.com/vi/tKKWBcYW19I/mqdefault.jpg "Vídeo no Youtube")](https://www.youtube.com/watch?v=-tKKWBcYW19I)
+
 
 ## Sumário
 - [O que você vai aprender](#O-que-você-vai-aprender)
