@@ -1,4 +1,4 @@
-# HTML e CSS para iniciantes - Aulão #009
+# Responsividade com HTML e CSS - Aulão #009
 ###### DevSuperior - sua carreira dev com fundamento de ensino superior
 
 **Comunidade no Discord**:
@@ -12,7 +12,7 @@ Não perca as novidades:
 
 Assista o vídeo desta aula:
 
-[![Image](https://img.youtube.com/vi/tKKWBcYW19I/mqdefault.jpg "Vídeo no Youtube")](https://www.youtube.com/watch?v=tKKWBcYW19I)
+[![Image](https://img.youtube.com/vi/2mmKjJb9EBE/mqdefault.jpg "Vídeo no Youtube")](https://www.youtube.com/watch?v=2mmKjJb9EBE)
 
 
 ## Sumário
@@ -21,15 +21,14 @@ Assista o vídeo desta aula:
 - [Objetivo da aula](#Objetivo-da-aula) 
 
 ## O que você vai aprender
-- Conceitos iniciais de HTML e CSS
-- Estrutura de uma página moderna com HTML5
-- Estilizando a página com CSS
+- Conceitos de responsividade
+- Media queries
+- Simular o site em um dispositivo móvel
 
 ## Pré-requisitos
 
 - Editor de texto (Recomendo o VSCode)
-- Básico de Git e Github
 
 ## Objetivo da aula
 
-Recriar, passo a passo, o layout o site: https://startbootstrap.github.io/startbootstrap-freelancer
+Tornar o layout da aula 009 responsivo.
