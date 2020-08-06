@@ -1,0 +1,110 @@
+body, html {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  font-family: "Montserrat";
+  font-weight: 700;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+header {
+  background-color: #2c3e50;
+  height: 100px;
+  position: fixed;
+  width: 100%;
+}
+
+nav {
+  width: 1100px;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+.menu-items {
+  display: flex;
+  list-style-type: none;
+}
+
+.menu-items a {
+  padding: 15px;
+  font-size: 16px;
+  display: block;
+}
+
+.menu-items a:hover {
+  color: #1abc9c;
+}
+
+.menu-items li {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.profile-container {
+  background-color: #1abc9c;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px;
+  padding-top: 200px;
+}
+
+.profile {
+  width: 1200px;
+  text-align: center;
+  color: #FFF;
+}
+
+.profile-avatar img {
+  width: 240px;
+}
+
+.profile-title {
+  font-size: 65px;
+}
+
+.profile-description {
+  font-size: 25px;
+}
+
+.portfolio {
+  padding-top: 30px;
+}
+
+.portfolio-title {
+  font-size: 50px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #2c3e50;
+}
+
+#portfolio {
+  width: 1200px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.portfolio-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.portfolio-item {
+  width: 330px;
+  height: 240px;
+  margin: 20px;
+  cursor: pointer;
+  border-radius: 10px;
+}
